@@ -19,7 +19,7 @@ This is a test page to practice markdown and github functionality
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/XG3H8fl.png" height="80%" width="80%" alt="CompTIA A+"/>
+<img src="https://i.imgur.com/XG3H8fl.png" height="20%" width="20%" alt="CompTIA A+"/>
 <br />
 
 
